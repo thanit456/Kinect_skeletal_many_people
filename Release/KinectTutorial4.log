@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\isl2\desktop\basickinect\4_skeletaltracking\main.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\isl2\desktop\basickinect\4_skeletaltracking\main.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\isl2\desktop\basickinect\4_skeletaltracking\main.cpp(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\isl2\desktop\basickinect\4_skeletaltracking\main.cpp(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\isl2\desktop\basickinect\4_skeletaltracking\main.cpp(128): warning C4101: 'tracked_body': unreferenced local variable
+  Generating code
+  3 of 15 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KinectTutorial4.vcxproj -> C:\Users\isl2\Desktop\basicKinect\4_SkeletalTracking\Release\KinectTutorial4.exe

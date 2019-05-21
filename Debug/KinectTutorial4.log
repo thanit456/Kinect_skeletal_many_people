@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\isl2\desktop\basickinect\4_skeletaltracking\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\isl2\desktop\basickinect\4_skeletaltracking\main.cpp(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\isl2\desktop\basickinect\4_skeletaltracking\main.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\isl2\desktop\basickinect\4_skeletaltracking\main.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  KinectTutorial4.vcxproj -> C:\Users\isl2\Desktop\basicKinect\4_SkeletalTracking\Debug\KinectTutorial4.exe
